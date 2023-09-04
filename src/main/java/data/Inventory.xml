@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inventory>
+    <productId>1A</productId>
+    <PartInventoryArray>
+        <PartInventory>
+            <partId>1A</partId>
+            <mainPart>true</mainPart>
+            <partColor>Red</partColor>
+            <labelSize>Large</labelSize>
+            <partDescription>Test product is good</partDescription>
+            <quantityAvailable>
+                <Quantity>
+                    <uom>BX</uom>
+                </Quantity>
+            </quantityAvailable>
+            <manufacturedItem>true</manufacturedItem>
+            <buyToOrder>true</buyToOrder>
+            <replenishmentLeadTime>1000</replenishmentLeadTime>
+            <attributeSelection>Red ones selected</attributeSelection>
+            <InventoryLocationArray/>
+            <lastModified></lastModified>
+        </PartInventory>
+    </PartInventoryArray>
+</Inventory>

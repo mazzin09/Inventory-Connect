@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Filter>
+    <partIdArray>
+        <partId>2B</partId>
+        <partId>2C</partId>
+    </partIdArray>
+    <LabelSizeArray>
+        <labelSize>M</labelSize>
+        <labelSize>S</labelSize>
+    </LabelSizeArray>
+    <PartColorArray>
+        <partColor>Green</partColor>
+        <partColor>Red</partColor>
+    </PartColorArray>
+</Filter>
